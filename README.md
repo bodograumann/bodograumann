@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats-kappa-rouge.vercel.app/api?username=bodograumann&theme=vue-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://githubstats.bodograumann.de/api?username=bodograumann&theme=vue-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kappa-rouge.vercel.app/api/top-langs/?username=bodograumann&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubstats.bodograumann.de/api/top-langs/?username=bodograumann&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
